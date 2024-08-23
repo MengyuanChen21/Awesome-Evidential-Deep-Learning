@@ -123,6 +123,19 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 ### Active Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
+| 1 | 2022 | MICCAI | CSEAL | Consistency-based semi-supervised evidential active learning for diagnostic radiograph classification
+| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2209.01858) | -
+| 2 | 2023 | ICLR | MEH + HUA | Active learning for object detection with evidential deep learning and hierarchical uncertainty aggregation
+| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=MnEjsw-vj-X) | [![GitHub stars](https://img.shields.io/github/stars/MoonLab-YH/AOD_MEH_HUA)](https://github.com/MoonLab-YH/AOD_MEH_HUA) 
+| 3 | 2023 | ICLR | EDAL | Evidential uncertainty and diversity guided active learning for scene graph generation
+| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=xI1ZTtVOtlz) | -
+| 4 | 2023 | NeurIPS | ADL | Multifaceted uncertainty estimation for label-efficient deep learning
+| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2020/file/c80d9ba4852b67046bee487bcd9802c0-Paper.pdf) | -
+| 5 | 2023 | Deep Learning Applications | Deal | Deal: Deep evidential active learning for image classification
+| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2007.11344) | -
+| 6 | 2024 | CVPR | --- | Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception
+|[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf) | =
+
 
 ### Multi-View Classification
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
