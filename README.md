@@ -187,7 +187,9 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 ### Natural Language Processing
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
-
+| 1 | 2022 | ICWS | ETGNN | Evidential temporal-aware graph-based social event detection via dempster-shafer theory | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885765) | -
+| 2 | 2023 | ACL Findings | E-NER | E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2305.17854) | [![GitHub stars](https://img.shields.io/github/stars/zhzhengit/ENER)](https://github.com/zhzhengit/ENER) 
+| 3 | 2024 | IEEE Trans Knowl Data Eng | UCL-SED | Uncertainty-guided Boundary Learning for Imbalanced Social Event Detection | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285435) | [![GitHub stars](https://img.shields.io/github/stars/RingBDStack/UCL_SED)](https://github.com/RingBDStack/UCL_SED) 
 
 ### Cross-modal Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
