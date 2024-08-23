@@ -94,7 +94,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 ### Weakly Supervised Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
-
+| 1 | 2024 | ICML | MIREL | Weakly-Supervised Residual Evidential Learning for Multi-Instance Uncertainty Estimation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://raw.githubusercontent.com/mlresearch/v235/main/assets/liu24ac/liu24ac.pdf) | [![GitHub stars](https://img.shields.io/github/stars/liupei101/MIREL)](https://github.com/liupei101/MIREL) 
 ### Transfer Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
