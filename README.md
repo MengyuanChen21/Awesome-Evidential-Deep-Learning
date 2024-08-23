@@ -134,20 +134,13 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 ### Multi-View Classification
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
-| 7 | 2022 | TPAMI | TMC/ETMC | Trusted multi-view classification with dynamic evidential fusion
-| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2204.11423) | [![GitHub stars](https://img.shields.io/github/stars/hanmenghan/TMC)](https://github.com/hanmenghan/TMC)
-| 8 | 2023 | CVPR | UIMC | Exploring and exploiting uncertainty for incomplete multi-view classification
-|[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Exploring_and_Exploiting_Uncertainty_for_Incomplete_Multi-View_Classification_CVPR_2023_paper.pdf) | -
-| 9 | 2023 | ICLR | VS-FLEF | MULTI-VIEW DEEP EVIDENTIAL FUSION NEURAL NETWORK FOR ASSESSMENT OF SCREENING MAMMOGRAMS
-| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=snjmwYRuqh) | [![GitHub stars](https://img.shields.io/github/stars/)](---)
-| 10 | 2023 | MICCAI | --- | A reliable and interpretable framework of multi-view learning for liver fibrosis staging
-| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2306.12054) | -
-| 11 | 2022 | IEEE Transactions on Industrial Informatics | EMDL | Uncertainty-aware multiview deep learning for internet of things applications
-|[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9906001&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3N0YW1wL3N0YW1wLmpzcD90cD0mYXJudW1iZXI9OTkwNjAwMQ==) | -
-| 12 | 2023 | Remote Sensing | --- | Credible remote sensing scene classification using evidential fusion on aerial-ground dual-view images
-|[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://mdpi-res.com/d_attachment/remotesensing/remotesensing-15-01546/article_deploy/remotesensing-15-01546-v3.pdf?version=1678846764) | -
-| 13 | 2024 | AAAI | --- | Reliable conflictive multi-view learning
-| [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ojs.aaai.org/index.php/AAAI/article/view/29546/30911) | [![GitHub stars](https://img.shields.io/github/stars/jiajunsi/RCML)(https://github.com/jiajunsi/RCML)
+| 1 | 2022 | TPAMI | TMC/ETMC | Trusted multi-view classification with dynamic evidential fusion | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2204.11423) | [![GitHub stars](https://img.shields.io/github/stars/hanmenghan/TMC)](https://github.com/hanmenghan/TMC)
+| 2 | 2022 | IEEE Transactions on Industrial Informatics | EMDL | Uncertainty-aware multiview deep learning for internet of things applications |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=9906001&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3N0YW1wL3N0YW1wLmpzcD90cD0mYXJudW1iZXI9OTkwNjAwMQ==) | -
+| 3 | 2023 | CVPR | UIMC | Exploring and exploiting uncertainty for incomplete multi-view classification |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2023/papers/Xie_Exploring_and_Exploiting_Uncertainty_for_Incomplete_Multi-View_Classification_CVPR_2023_paper.pdf) | -
+| 4 | 2023 | ICLR | VS-FLEF | MULTI-VIEW DEEP EVIDENTIAL FUSION NEURAL NETWORK FOR ASSESSMENT OF SCREENING MAMMOGRAMS | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=snjmwYRuqh) | -
+| 5 | 2023 | MICCAI | --- | A reliable and interpretable framework of multi-view learning for liver fibrosis staging | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2306.12054) | -
+| 6 | 2023 | Remote Sensing | --- | Credible remote sensing scene classification using evidential fusion on aerial-ground dual-view images |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://mdpi-res.com/d_attachment/remotesensing/remotesensing-15-01546/article_deploy/remotesensing-15-01546-v3.pdf?version=1678846764) | -
+| 7 | 2024 | AAAI | --- | Reliable conflictive multi-view learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ojs.aaai.org/index.php/AAAI/article/view/29546/30911) | [![GitHub stars](https://img.shields.io/github/stars/jiajunsi/RCML)(https://github.com/jiajunsi/RCML)
 
 ### Multi-label Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
