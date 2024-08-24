@@ -123,7 +123,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | 3 | 2023 | ICLR | EDAL | Evidential uncertainty and diversity guided active learning for scene graph generation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=xI1ZTtVOtlz) | -
 | 4 | 2023 | NeurIPS | ADL | Multifaceted uncertainty estimation for label-efficient deep learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2020/file/c80d9ba4852b67046bee487bcd9802c0-Paper.pdf) | -
 | 5 | 2023 | Deep Learning Applications | Deal | Deal: Deep evidential active learning for image classification | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2007.11344) | -
-| 6 | 2024 | CVPR | --- | Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf) | =
+| 6 | 2024 | CVPR | --- | Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf) | -
 
 
 ### Multi-View Classification
@@ -157,6 +157,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
 | 1 | 2020 | NeurIPS | GKDE | Uncertainty aware semi-supervised learning on graph data | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.neurips.cc/paper/2020/file/968c9b4f09cbb7d7925f38aea3484111-Paper.pdf) | [![GitHub stars](https://img.shields.io/github/stars/zxj32/uncertainty-GNN)](https://github.com/zxj32/uncertainty-GNN) |
+| 2 | 2024 | ICLR | - | Uncertainty-aware Graph-based Hyperspectral Image Classification |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=8dN7gApKm3) | [![GitHub stars](https://img.shields.io/github/stars/linlin-yu/uncertainty-aware-HSIC)](https://github.com/linlin-yu/uncertainty-aware-HSIC)
 
 ## EDL in Downstream Applications
 
@@ -219,6 +220,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 |  3 | 2023 |AAAI|ANEDL|Adaptive Negative Evidential Deep Learning for Open-set Semi-supervised Learning|[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ojs.aaai.org/index.php/AAAI/article/download/29597/31006)|-|
 |  4 | 2024 |ICML|MET|Meta Evidential Transformer for Few-Shot Open-Set Recognition|[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=CquFGSIU6w)|[![GitHub stars](https://img.shields.io/github/stars/ritmininglab/MET)](https://github.com/ritmininglab/MET)|
 |  5 | 2024 |AAAI|EOD|Towards Evidential and Class Separable Open Set Object Detection|[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ojs.aaai.org/index.php/AAAI/article/download/28367/28719)|[![GitHub stars](https://img.shields.io/github/stars/roywang021/EOD)](https://github.com/roywang021/EOD)|
+
 
 
 ### EDL for Science
