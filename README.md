@@ -5,8 +5,6 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 
 *Last updated: 2024/08*
 
-##
-
 ## Table of Contents
 - [Surveys](#surveys)
 - [Theoretical Explorations](#theoretical-explorations)
