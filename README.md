@@ -8,10 +8,10 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 ## Table of Contents
 - [Surveys](#surveys)
 - [Theoretical Explorations](#theoretical-explorations)
-    - [Reformulating evidence collection process](#reformulating-evidence-collection-process)
-    - [Improving uncertainty estimation via OOD samples](#improving-uncertainty-estimation-via-OOD-samples)
-    - [Delving into different training strategies](#delving-into-different-training-strategies)
-    - [Deep evidential regression](#deep-evidential-regression)
+    - [Reformulating Evidence Collection Process](#reformulating-evidence-collection-process)
+    - [Improving Uncertainty Estimation via OOD Samples](#improving-uncertainty-estimation-via-OOD-samples)
+    - [Delving into Different Training Strategies](#delving-into-different-training-strategies)
+    - [Deep Evidential Regression](#deep-evidential-regression)
 - [EDL Enhanced Machine Learning](#edl-enhanced-machine-learning)
     - [Weakly Supervised Learning](#open-set-recognition)
     - [Transfer Learning](#transfer-learning)
@@ -41,7 +41,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 
 ## Theoretical Explorations
 
-### Reformulating evidence collection process
+### Reformulating Evidence Collection Process
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
 | 1 | 2017 | NeurIPS | EDL | Evidential deep learning to quantify classification uncertainty | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf) | [![GitHub stars](https://img.shields.io/github/stars/dougbrion/pytorch-classification-uncertainty)](https://github.com/dougbrion/pytorch-classification-uncertainty) 
@@ -51,7 +51,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | 5 | 2024 | ICLR | R-EDL | R-EDL: Relaxing Nonessential Settings of Evidential Deep Learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=Si3YFA641c) | [![GitHub stars](https://img.shields.io/github/stars/MengyuanChen21/ICLR2024-REDL)](https://github.com/MengyuanChen21/ICLR2024-REDL) 
 | 6 | 2024 | ICLR | Hyper EDL | Hyper Evidential Deep Learning to Quantify Composite Classification Uncertainty | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2404.10980) | [![GitHub stars](https://img.shields.io/github/stars/Hugo101/HyperEvidentialNN)](https://github.com/Hugo101/HyperEvidentialNN) 
 
-### Improving uncertainty estimation via OOD samples
+### Improving Uncertainty Estimation via OOD Samples
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
 | 1 | 2019 | arXiv | - | Quantifying classification uncertainty using regularized evidential neural networks | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/1910.06864) | [Dropbox](https://www.dropbox.com/sh/uhonftulu9x2xa9/AABZxzeraWN8SYHh9N_10QoTa?dl=0) 
@@ -60,7 +60,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | 4 | 2023 | Sci Rep | m-EDL | Learning and predicting the unknown class using evidential deep learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://www.nature.com/articles/s41598-023-40649-w.pdf) | [![GitHub stars](https://img.shields.io/github/stars/naga0862/m-EDL)](https://github.com/naga0862/m-EDL) 
 | 5 | 2023 | KDD | - | Knowledge from uncertainty in evidential deep learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2310.12663) | -
 
-### Delving into different training strategies
+### Delving into Different Training Strategies
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
 | 1 | 2019 | AABI | BEDL | Bayesian evidential deep learning with PAC regularization | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/1906.00816) | -
@@ -69,9 +69,6 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | 4 | 2022 | NeurIPS Workshop | Hybrid-EDL | Hybrid-edl: Improving evidential deep learning for uncertainty quantification on imbalanced data | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=Nr1RDmAx-Qm) | [![GitHub stars](https://img.shields.io/github/stars/XTxiatong/Hybrid-EDL)](https://github.com/XTxiatong/Hybrid-EDL) 
 | 5 | 2022 | CVPR | Units-ML | Multidimensional belief quantification for label-efficient meta-learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2022/papers/Pandey_Multidimensional_Belief_Quantification_for_Label-Efficient_Meta-Learning_CVPR_2022_paper.pdf) | -
 | 6 | 2022 | ICLR | ETP | Evidential Turing Processes | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2106.01216) | [![GitHub stars](https://img.shields.io/github/stars/ituvisionlab/EvidentialTuringProcess)](https://github.com/ituvisionlab/EvidentialTuringProcess) |
-
-
-
 
 
 
