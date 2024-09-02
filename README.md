@@ -8,8 +8,8 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 ##
 
 ## Table of Contents
+- [Surveys](#surveys)
 - [Theoretical Explorations](#theoretical-explorations)
-    - [Surveys](#surveys)
     - [Reformulating evidence collection process](#reformulating-evidence-collection-process)
     - [Improving uncertainty estimation via OOD samples](#improving-uncertainty-estimation-via-OOD-samples)
     - [Delving into different training strategies](#delving-into-different-training-strategies)
@@ -33,8 +33,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 
 ##
 
-## Theoretical Explorations
-### Surveys
+## Surveys
 | ID | Year | Venue |  Title   |   PDF   |
 |:--:|:----:|:-----:|:--------:|:-------:|
 | 1 | 2022 | arXiv | A survey on uncertainty reasoning and quantification for decision making: Belief theory meets deep learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2206.05675) |
@@ -42,6 +41,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | 3 | 2023 | TMLR | Prior and posterior networks: A survey on evidential deep learning methods for uncertainty estimation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2110.03051) |
 | 4 | 2024 | arXiv |  A comprehensive survey on evidential deep learning and its applications | |
 
+## Theoretical Explorations
 
 ### Reformulating evidence collection process
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
