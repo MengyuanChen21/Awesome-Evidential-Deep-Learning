@@ -37,7 +37,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | 1 | 2022 | arXiv | A survey on uncertainty reasoning and quantification for decision making: Belief theory meets deep learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2206.05675) |
 | 2 | 2022 | IJCAI | Evidential reasoning and learning: a survey | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://www.ijcai.org/proceedings/2022/0760.pdf) |
 | 3 | 2023 | TMLR | Prior and posterior networks: A survey on evidential deep learning methods for uncertainty estimation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2110.03051) |
-| 4 | 2024 | arXiv |  A comprehensive survey on evidential deep learning and its applications | |
+| 4 | 2024 | arXiv |  **A comprehensive survey on evidential deep learning and its applications** | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2409.04720) |
 
 ## Theoretical Explorations
 
