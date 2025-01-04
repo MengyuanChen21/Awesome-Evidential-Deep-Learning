@@ -23,6 +23,7 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 - [EDL in Downstream Applications](#edl-in-downstream-applications)
     - [Computer Vision](#computer-vision)
     - [Natural Language Processing](#natural-language-processing)
+    - [Audio Processing](#audio-processing)
     - [Cross-modal Learning](#cross-modal-learning)
     - [Automatic Driving](#automatic-driving)
     - [EDL in the Open-World](#edl-in-the-open-world)
@@ -142,13 +143,12 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | 4 | 2023 | ICASSP | TMSDC | Towards trustworthy multi-label sewer defect classification via evidential deep learning |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2210.13782) | -
 | 5 | 2023 | ICASSP | MTENN | Multi-Label Temporal Evidential Neural Networks for Early Event Detection |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10096305&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3N0YW1wL3N0YW1wLmpzcD90cD0mYXJudW1iZXI9MTAwOTYzMDU=) | -
 
-
-
 ### Reinfocement Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
 | 1 | 2023 | ICML | DTS-ERA | Deep temporal sets with evidential reinforced attentions for unique behavioral pattern discovery |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.mlr.press/v202/wang23ab/wang23ab.pdf) | [![GitHub stars](https://img.shields.io/github/stars/wdr123/DTS_ERA)](https://github.com/wdr123/DTS_ERA)
 | 2 | 2023 | NeurIPS | FGRM | Uncertainty estimation for safety-critical scene segmentation via fine-grained reward maximization |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2023/file/71ec377d5df1fc61ee7770857820519b-Paper-Conference.pdf) | [![GitHub stars](https://img.shields.io/github/stars/med-air/FGRM)](https://github.com/med-air/FGRM)
+
 ### Graph Neural Network
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
@@ -182,6 +182,12 @@ This repository was built to facilitate navigating the mainstream on **evidentia
 | 1 | 2022 | ICWS | ETGNN | Evidential temporal-aware graph-based social event detection via dempster-shafer theory | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9885765) | -
 | 2 | 2023 | ACL Findings | E-NER | E-NER: Evidential Deep Learning for Trustworthy Named Entity Recognition | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2305.17854) | [![GitHub stars](https://img.shields.io/github/stars/zhzhengit/ENER)](https://github.com/zhzhengit/ENER) 
 | 3 | 2024 | IEEE Trans Knowl Data Eng | UCL-SED | Uncertainty-guided Boundary Learning for Imbalanced Social Event Detection | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285435) | [![GitHub stars](https://img.shields.io/github/stars/RingBDStack/UCL_SED)](https://github.com/RingBDStack/UCL_SED) 
+
+### Audio Processing
+| ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
+|:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
+| 1 | 2022 | ICASSP | SEED | Seed: Sound event early detection via evidential uncertainty | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2202.02441) | -
+| 2 | 2024 | TIM | TCRNN | Uncertainty estimation for sound source localization with deep learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/abstract/document/10816213/) | [![GitHub stars](https://img.shields.io/github/stars/Devin-Pi/uncertainty-estimation-for-ssl)](https://github.com/Devin-Pi/uncertainty-estimation-for-ssl) 
 
 ### Cross-modal Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
