@@ -1,9 +1,11 @@
 # Awesome Evidential Deep Learning
 A curated publication list on evidential deep learning.
 
-This repository was built to facilitate navigating the mainstream on **evidential deep learning***.  
+This repository is designed to help researchers and enthusiasts explore the latest advancements and mainstream developments in **evidential deep learning**.
 
-*Last updated: 2024/08*
+Feel free to reach out and share the latest relevant work in the field of EDL to help further enrich this repository.
+
+*Last updated: 2025/01*
 
 ## Table of Contents
 - [Surveys](#surveys)
