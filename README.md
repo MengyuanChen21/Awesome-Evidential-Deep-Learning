@@ -53,6 +53,8 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 4 | 2023 | AAAI | - | Post-hoc uncertainty learning using a dirichlet meta-model | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ojs.aaai.org/index.php/AAAI/article/view/26167/25939) | -
 | 5 | 2024 | ICLR | R-EDL | R-EDL: Relaxing Nonessential Settings of Evidential Deep Learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=Si3YFA641c) | [![GitHub stars](https://img.shields.io/github/stars/MengyuanChen21/ICLR2024-REDL)](https://github.com/MengyuanChen21/ICLR2024-REDL) 
 | 6 | 2024 | ICLR | Hyper EDL | Hyper Evidential Deep Learning to Quantify Composite Classification Uncertainty | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2404.10980) | [![GitHub stars](https://img.shields.io/github/stars/Hugo101/HyperEvidentialNN)](https://github.com/Hugo101/HyperEvidentialNN) 
+| 7 | 2024 | NeurIPS | DAEDL | Uncertainty Estimation by Density Aware Evidential Deep Learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2409.08754) | [![GitHub stars](https://img.shields.io/github/stars/TaeseongYoon/DAEDL)](https://github.com/TaeseongYoon/DAEDL) 
+
 
 ### Improving Uncertainty Estimation via OOD Samples
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
@@ -72,6 +74,9 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 4 | 2022 | NeurIPS Workshop | Hybrid-EDL | Hybrid-edl: Improving evidential deep learning for uncertainty quantification on imbalanced data | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=Nr1RDmAx-Qm) | [![GitHub stars](https://img.shields.io/github/stars/XTxiatong/Hybrid-EDL)](https://github.com/XTxiatong/Hybrid-EDL) 
 | 5 | 2022 | CVPR | Units-ML | Multidimensional belief quantification for label-efficient meta-learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2022/papers/Pandey_Multidimensional_Belief_Quantification_for_Label-Efficient_Meta-Learning_CVPR_2022_paper.pdf) | -
 | 6 | 2022 | ICLR | ETP | Evidential Turing Processes | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2106.01216) | [![GitHub stars](https://img.shields.io/github/stars/ituvisionlab/EvidentialTuringProcess)](https://github.com/ituvisionlab/EvidentialTuringProcess) |
+| 7 | 2022 | CML| - | Is Epistemic Uncertainty Faithfully Represented by Evidential Deep Learning Methods? | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2402.09056) | [![GitHub stars](https://img.shields.io/github/stars/mkjuergens/EpistemicUncertaintyAnalysis)](https://github.com/mkjuergens/EpistemicUncertaintyAnalysis) |
+
+
 
 
 
@@ -100,6 +105,7 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 5 | 2023 | TPAMI | VEL | Vectorized Evidential Learning for Weakly-supervised Temporal Action Localization | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238828) | -
 | 6 | 2024 | ICML | MIREL | Weakly-Supervised Residual Evidential Learning for Multi-Instance Uncertainty Estimation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://raw.githubusercontent.com/mlresearch/v235/main/assets/liu24ac/liu24ac.pdf) | [![GitHub stars](https://img.shields.io/github/stars/liupei101/MIREL)](https://github.com/liupei101/MIREL) 
 
+
 ### Transfer Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
@@ -113,6 +119,7 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 8 | 2024 | OpenReview | BKD | Bayesian Knowledge Distillation for Online Action Detection | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=8iojQVLLWb) | -
 | 9 | 2024 | arXiv | UGA | Uncertainty-Guided Alignment for Unsupervised Domain Adaptation in Regression | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2401.13721) | -
 | 10 | 2024 | CVPR | MADA | Revisiting the Domain Shift and Sample Uncertainty in Multi-source Active Domain Transfer | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Revisiting_the_Domain_Shift_and_Sample_Uncertainty_in_Multi-source_Active_CVPR_2024_paper.pdf) | [![GitHub stars](https://img.shields.io/github/stars/wannature/Detective-A-Dynamic-Integrated-Uncertainty-Valuation-Framework)](https://github.com/wannature/Detective-A-Dynamic-Integrated-Uncertainty-Valuation-Framework)  
+| 11 | 2024 | NeurIPS | SAUE | Style Adaptation and Uncertainty Estimation for Multi-Source Blended-Target Domain Adaptation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=KvAaIJhqhI) | -
 
 ### Active Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
@@ -123,6 +130,7 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 4 | 2023 | NeurIPS | ADL | Multifaceted uncertainty estimation for label-efficient deep learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2020/file/c80d9ba4852b67046bee487bcd9802c0-Paper.pdf) | -
 | 5 | 2023 | Deep Learning Applications | Deal | Deal: Deep evidential active learning for image classification | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2007.11344) | -
 | 6 | 2024 | CVPR | --- | Evidential Active Recognition: Intelligent and Prudent Open-World Embodied Perception |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2024/papers/Fan_Evidential_Active_Recognition_Intelligent_and_Prudent_Open-World_Embodied_Perception_CVPR_2024_paper.pdf) | -
+| 7 | 2024 | NeurIPS | EMM | Evidential Mixture Machines: Deciphering Multi-Label Correlations for Active Learning Sensitivity |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=n5lLSskwtu) | [![GitHub stars](https://img.shields.io/github/stars/ritmininglab/EMM)]([https://github.com/wannature/Detective-A-Dynamic-Integrated-Uncertainty-Valuation-Framework](https://github.com/ritmininglab/EMM))  
 
 
 ### Multi-View Classification
@@ -144,6 +152,7 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 3 | 2023 | Artificial Intelligence | --- | DEED: DEep Evidential Doctor |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://pdf.sciencedirectassets.com/craft/capi/cfts/init?s=1800&p=%2F271585%2F1-s2.0-S0004370223X00101%2F1-s2.0-S0004370223001650%2Fmain.pdf&q=X-Amz-Security-Token%3DIQoJb3JpZ2luX2VjEJv%252F%252F%252F%252F%252F%252F%252F%252F%252F%252FwEaCXVzLWVhc3QtMSJHMEUCICGTjL%252BIkf6KtlBhFX0eMXEBqJ7BnQ9L5hPPCOZm6baWAiEAjcj8quIEKOcqMN6rmIQJytJuk%252BqDAZn4z%252BbrnzayWf4quwUIpP%252F%252F%252F%252F%252F%252F%252F%252F%252F%252FARAFGgwwNTkwMDM1NDY4NjUiDCPHBXi%252B779L68qH%252FiqPBYXFT5Ts8jH6h7vKfQm9pA0rXDgUiGZHkXV44fF8IfW%252B2GZGVa447PYiIwSoRu4N9hsjEADBiYjmRwysX9mIoILmQRNVx3OjxOjhkPapmyBWlGkAFJPD5%252F5dpdS5Qr06wCCZaGHpzV5c99JcYSAIii1CWLLwalGXU7T%252BnVcGdfJTONCMr2cAjTwZ08CGBSbKgHfmuLW7Z%252F0Hpf5QZVX6oXtgKKrjOStQTHYKhSiYxVI6a0AwFCT7yURUvK5JiTm7l4sH5DhLrZBexTV2UI4AGSvvinuzliA28b9LrsOviF5BNDZaBLSflrQbVUqEUlXEtMBokikY1PKhmBL5eVipJbi1GcCodqnzgMSVpoTYDX3cH1fLskWDR2PlFvjfR6fSYJQDGnrA9siseO%252BDNBpcBzqXTIGJJ4STD9579q5zrgLg27VVxpRagYWmf25L%252B7OjuqQ72gGNYtEgGP%252FSs52Tt83BfblIzuotxHAtzRxqf3uCT%252FkaMeD4QPzYtD584xiFhBgZ509f4rkbFSNaWor8iNg1NB8B1FZ%252Bc%252BsAMnEpdQf3ynGYRSrBugDFwCoyxJLno6Iuo6POLjWMt18oJJ9MMUDIPRMn3zMi%252B2Zzdxg%252Bab0HmcsQVtWoIrWMcIb7KQnVpH2UyfzaQQP8GzRi5N%252FPq46nTbGAFdoixKbWjnQEmtjhTDYLIqal63F4x9PMXqmu3WSjBcBL%252BUQR%252BT%252Byd%252FyBE%252BA%252ByrqcVx7JdftgOeJYixGPWxXVyGfNCMWkMyzf2fzh4XIP0qUdq0S34szBC5cGLyf9A8SzPsz7U1nKdZbhp3A5ddJsJKdiO75Nn6AOVz0%252FQmuYGe%252B5ik83CZ3hwQy2eyiydY2UdKCJ1dv3eVZ%252BWq0w58mhtgY6sQEMTfR9I5lftySW9A1goolEXbJMKYO%252F92DE7j7HoN8zSKlfUiIsj8SBnKcgrT0sNSy5z3FIrOqtl3BkNfVud%252FJDOr79yTzqonE%252BPUya7hM8iarCMfu4UBIJtz05L0qBjd%252FzjBXmOFaXYoWRvWuJFbvEwLrXFd4eUBkAzgPPTizWwGft9hwT5RRpDHSUtEOzsdbkLBZxpJ3BpktNN7GXeqOjLgExM9eeG4jeil25m2htMog%253D%26X-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Date%3D20240823T112254Z%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Expires%3D300%26X-Amz-Credential%3DASIAQ3PHCVTYRUJ2KUOI%252F20240823%252Fus-east-1%252Fs3%252Faws4_request%26X-Amz-Signature%3Da0d583b477bc363f56623e7b6b5d7f3a198d6704e5688b8f874297b6540f8063%26hash%3D817703f08f1c0b25d308a34063ac52c651f1023e7baecfe4a8920a847de57a01%26host%3D68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61%26pii%3DS0004370223001650%26tid%3Dspdf-b7246741-aa3c-4436-92b8-b273dd005af5%26sid%3Df5477de050bcd746774bba55ed8b63e908e4gxrqa%26type%3Dclient%26tsoh%3Dd3d3LnNjaWVuY2VkaXJlY3QuY29t%26ua%3D120f5806580306025459%26rr%3D8b7aba366d700ec4%26cc%3Dhk&i=2024-08-23T11%3A22%3A55.098Z&c=challenge-hk&r=8b7aba3e18d70974&u=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0004370223001650&w=interactive&h=eyJrZXkiOiJVbDd1Q2Zva3BQZU1YMGI2SDZCZXZiTUp3NVVUTGtycnNJcnZzNll1OVBLM0d4V1dVVTB3V05JditaWHRLSFcwdkZCc1lYbjM3SmJmUmEyN2dSd2Fnc2YvZHh1Skt2QVJML3Y4aEZZVTlpQT0iLCJpdiI6ImY2NGY5ZTNkNTYzMTNlYWQ1MWI3MzAxNDUxOTliMTJhIn0%3D) | [![GitHub stars](https://img.shields.io/github/stars/aaq109/DEED)](https://github.com/aaq109/DEED)
 | 4 | 2023 | ICASSP | TMSDC | Towards trustworthy multi-label sewer defect classification via evidential deep learning |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2210.13782) | -
 | 5 | 2023 | ICASSP | MTENN | Multi-Label Temporal Evidential Neural Networks for Early Event Detection |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=10096305&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3N0YW1wL3N0YW1wLmpzcD90cD0mYXJudW1iZXI9MTAwOTYzMDU=) | -
+| 6 | 2024 | NeurIPS | HEDL | Hyper-opinion Evidential Deep Learning for Out-of-Distribution Detection |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=Te8vI2wGTh) | -
 
 ### Reinfocement Learning
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
@@ -155,7 +164,7 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
 | 1 | 2020 | NeurIPS | GKDE | Uncertainty aware semi-supervised learning on graph data | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.neurips.cc/paper/2020/file/968c9b4f09cbb7d7925f38aea3484111-Paper.pdf) | [![GitHub stars](https://img.shields.io/github/stars/zxj32/uncertainty-GNN)](https://github.com/zxj32/uncertainty-GNN) |
-| 2 | 2024 | ICLR | - | Uncertainty-aware Graph-based Hyperspectral Image Classification |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=8dN7gApKm3) | [![GitHub stars](https://img.shields.io/github/stars/linlin-yu/uncertainty-aware-HSIC)](https://github.com/linlin-yu/uncertainty-aware-HSIC)
+| 2 | 2024 | ICML | - | Uncertainty-aware Graph-based Hyperspectral Image Classification |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=8dN7gApKm3) | [![GitHub stars](https://img.shields.io/github/stars/linlin-yu/uncertainty-aware-HSIC)](https://github.com/linlin-yu/uncertainty-aware-HSIC)
 
 ## EDL in Downstream Applications
 
@@ -177,6 +186,11 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 13 | 2023 | MM | - | Learning Discriminative Feature Representation for Open Set Action Recognition | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://dl.acm.org/doi/pdf/10.1145/3581783.3611824) | -
 | 14 | 2024 | AAAI | EUMS-3D | Evidential Uncertainty-Guided Mitochondria Segmentation for 3D EM Images | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ojs.aaai.org/index.php/AAAI/article/download/28287/28565) | -
 | 15 | 2024 | TGRS | SSEL | Spectral-Spatial Evidential Learning Network for Open-Set Hyperspectral Image Classification | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10379821) | -
+| 16 | 2024 | NeurIPS | E-NSDE | Evidential Stochastic Differential Equations for Time-Aware Sequential Recommendation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=1PmsSugB87) | [![GitHub stars](https://img.shields.io/github/stars/ritmininglab/ENSDE)](https://github.com/ritmininglab/ENSDE)
+| 17 | 2024 | NeurIPS | AIRS | Adaptive Important Region Selection with Reinforced Hierarchical Search for Dense Object Detection | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=1PmsSugB87) | [![GitHub stars](https://img.shields.io/github/stars/zhzhengit/ENER)](https://openreview.net/pdf?id=f8MrWxlnRz)
+| 18 | 2024 | NeurIPS | Bayesian-PEFT | Be Confident in What You Know: Bayesian Parameter Efficient Fine-Tuning of Vision Foundation Models | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=loQCk0qruU) | -
+| 19 | 2024 | ICML | - | Hierarchical Novelty Detection via Fine-Grained Evidence Allocation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=KfN76nAcOO) | -
+
 
 ### Natural Language Processing
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
@@ -202,6 +216,7 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 6 | 2023 | MM | DCEL | DCEL: Deep Cross-modal Evidential Learning for Text-Based Person Retrieval | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://dl.acm.org/doi/pdf/10.1145/3581783.3612244) | -
 | 8 | 2023 | arXiv | - | Integrating Large Pre-trained Models into Multimodal Named Entity Recognition with Evidential Fusion | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2306.16991) | -
 | 9 | 2024 | Information Fusion | DDEF | Dual-level Deep Evidential Fusion: Integrating multimodal information for enhanced reliable decision-making in deep learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://www.sciencedirect.com/science/article/pii/S1566253523004293/pdfft?md5=090f37e0b04a50009073c2f7e7223900&pid=1-s2.0-S1566253523004293-main.pdf) | - 
+| 10 | 2024 | ICASSP | EPE-P | EPE-P: Evidence-based Parameter-efficient Prompting for Multimodal Learning with Missing Modalities | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](arxiv.org/pdf/2412.17677) | - 
 
 
 ### Automatic Driving
