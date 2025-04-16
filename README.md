@@ -75,6 +75,7 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 5 | 2022 | CVPR | Units-ML | Multidimensional belief quantification for label-efficient meta-learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openaccess.thecvf.com/content/CVPR2022/papers/Pandey_Multidimensional_Belief_Quantification_for_Label-Efficient_Meta-Learning_CVPR_2022_paper.pdf) | -
 | 6 | 2022 | ICLR | ETP | Evidential Turing Processes | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2106.01216) | [![GitHub stars](https://img.shields.io/github/stars/ituvisionlab/EvidentialTuringProcess)](https://github.com/ituvisionlab/EvidentialTuringProcess) |
 | 7 | 2022 | ICML| - | Is Epistemic Uncertainty Faithfully Represented by Evidential Deep Learning Methods? | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://arxiv.org/pdf/2402.09056) | [![GitHub stars](https://img.shields.io/github/stars/mkjuergens/EpistemicUncertaintyAnalysis)](https://github.com/mkjuergens/EpistemicUncertaintyAnalysis) |
+| 8 | 2025 | ICLR| IB-EDL | Calibrating LLMs with Information-Theoretic Evidential Deep Learning | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)]([https://arxiv.org/pdf/2402.09056](https://openreview.net/pdf?id=YcML3rJl0N)) | [![GitHub stars](https://img.shields.io/github/stars/mkjuergens/EpistemicUncertaintyAnalysis)]([https://github.com/mkjuergens/EpistemicUncertaintyAnalysis](https://github.com/sandylaker/ib-edl)) |
 
 
 
@@ -159,6 +160,7 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 |:--:|:----:|:-----:|:--------:|:--------:|:-------:|:------:|
 | 1 | 2023 | ICML | DTS-ERA | Deep temporal sets with evidential reinforced attentions for unique behavioral pattern discovery |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.mlr.press/v202/wang23ab/wang23ab.pdf) | [![GitHub stars](https://img.shields.io/github/stars/wdr123/DTS_ERA)](https://github.com/wdr123/DTS_ERA)
 | 2 | 2023 | NeurIPS | FGRM | Uncertainty estimation for safety-critical scene segmentation via fine-grained reward maximization |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://proceedings.neurips.cc/paper_files/paper/2023/file/71ec377d5df1fc61ee7770857820519b-Paper-Conference.pdf) | [![GitHub stars](https://img.shields.io/github/stars/med-air/FGRM)](https://github.com/med-air/FGRM)
+| 3 | 2025 | ICLR | - | Looking into User’s Long-term Interests through the Lens of Conservative Evidential Learning |[![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=o99Yn1wN9J) | -
 
 ### Graph Neural Network
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
@@ -190,7 +192,8 @@ Feel free to reach out and share the latest relevant work in the field of EDL to
 | 17 | 2024 | NeurIPS | AIRS | Adaptive Important Region Selection with Reinforced Hierarchical Search for Dense Object Detection | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=1PmsSugB87) | [![GitHub stars](https://img.shields.io/github/stars/zhzhengit/ENER)](https://openreview.net/pdf?id=f8MrWxlnRz)
 | 18 | 2024 | NeurIPS | Bayesian-PEFT | Be Confident in What You Know: Bayesian Parameter Efficient Fine-Tuning of Vision Foundation Models | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=loQCk0qruU) | -
 | 19 | 2024 | ICML | - | Hierarchical Novelty Detection via Fine-Grained Evidence Allocation | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=KfN76nAcOO) | -
-
+| 20 | 2025 | ICLR | - | Predictive Uncertainty Quantification for Bird's Eye View Segmentation: A Benchmark and Novel Loss Function | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)]([https://openreview.net/pdf?id=KfN76nAcOO](https://openreview.net/pdf?id=k3y0oyK7sn)) | [![GitHub stars](https://img.shields.io/github/stars/zhzhengit/ENER)]([https://openreview.net/pdf?id=f8MrWxlnRz](https://github.com/bluffish/ubev))
+| 20 | 2025 | ICLR | - | Evidential Learning-based Certainty Estimation for Robust Dense Feature Matching | [![PDF](https://img.shields.io/badge/PDF-View-red?style=plastic)](https://openreview.net/pdf?id=4NWtrQciRH) | [![GitHub stars](https://img.shields.io/github/stars/zhzhengit/ENER)]([https://openreview.net/pdf?id=f8MrWxlnRz](https://github.com/bluffish/ubev))
 
 ### Natural Language Processing
 | ID | Year | Venue |   Abbr   |  Title   |   PDF   |  Code  |
